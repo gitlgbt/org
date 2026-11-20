@@ -4,8 +4,6 @@
     </a>
 </p>
 
-<div align="center">
-
 > [!NOTE]
 > Legal Documents and branding assets for gitlgbt
 
