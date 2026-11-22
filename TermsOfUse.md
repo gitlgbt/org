@@ -58,7 +58,7 @@ We trying our best to keep your data safe You are responsible for making your ow
 
 ## Privacy
 
-See our Privacy Policy at for how we handle your data.
+See our [Privacy Policy](/PrivacyPolicy.md) for how we handle your data.
 
 ## Sources & License of this text
 
