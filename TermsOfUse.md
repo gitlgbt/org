@@ -3,14 +3,15 @@
 
 Welcome to git.lgbt. We run a Forgejo-based code hosting service for free and open source projects, built as a friendly and safe space for the LGBTQ+ community and its allies. By creating an account or using the service (including any related services we operate), you agree to these Terms. If you don't agree, please don't use the service.
 
-We have the right to
+We reserve the right to:
 
-Take appropriate action, including without limitation
-Terminate or suspend your access to all or part of the Service for any or no reason, including without limitation, any violation of these Terms of Use.
+Take appropriate action, including without limitation suspending or terminating your access to all or part of the Service, for any violation of these Terms of Use or to protect the platform and its community.
 
-Take appropriate action if we belive user disproportionately taxing on our servers
+Rate-limit, restrict, or take appropriate action if we believe a user or repository is disproportionately taxing our servers.
 
-modify the term anytime
+Modify these Terms at any time (with reasonable notice for major changes where possible).
+
+(Under "What we provide" #3): We enforce no hard usage quotas and try our best to support open-source projects as much as we can, provided usage remains within our Fair Use guidelines.
 
 
 ## What we provide
@@ -21,11 +22,26 @@ modify the term anytime
 
 (3) We have no Hard limit of usage we trying our best to provide and support opensource project as much as we can as long as it follow our "fair use"
 
-## Fair use 
+
+## Fair Use & Acceptable Usage
+
+We have no hard limits on git.lgbt we want to support free and open-source projects as much as we can. 
+However we do not have infinite server resource all usage must remain within reasonable range
 
 1. reasonably size content, repo, all resorce usage
-2. Private repository are not as a personal cloud or media storage
-3. CI/Runner are not for mining or personal cloud compute
+
+2. Repositories (especially private ones) are for source code documentation and project assets not for personal cloud backups, media hosting
+ or general file sharing/CDN distribution for external websites or apps.
+
+3. Actions/CI runners are provided to build, test, lint, and package your hosted software. it not an personal cloud compute
+
+4. Do not use git.lgbt to mirror massive external
+
+5. No Quota Circumvention, avoiding enforcement
+Splitting large files, media dumps, or heavy workloads across multiple repositories or accounts to bypass fair use expectations is not allowed.
+
+6. using git.lgbt API to train LLM/AI is not allow
+
 
 ## Prohibited Content
 
@@ -47,6 +63,10 @@ modify the term anytime
     - No assets uploaded to icon, description, or any other part of a project page may be created or derived from generative AI output. this including of graphic, audio etc
 
 6. Repositories and attachments may not contain harmful code that can be run accidentally during normal development workflow and should use proper disclaimers and protections if applicable. Furthermore, software that is clearly written to do harm to other computers is only allowed in the context of security research or education and must be flagged accordingly.
+
+6. Spam, Phishing & Platform Abuse
+   - (See the Fair Use & Acceptable Usage section)
+   - Using repositories, issues, wikis, or Pages for SEO spam, phishing pages, scam distribution, link farming, or automated account creation.
 
 ## Responsibilities & Copyright
 
